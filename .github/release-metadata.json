@@ -1,0 +1,43 @@
+{
+  "package": "mise",
+  "upstream_repo": "jdx/mise",
+  "version": "v2026.8.14",
+  "tag": "v2026.8.14",
+  "published_at": "2026-08-26T01:16:21Z",
+  "license": "MIT",
+  "asset": "mise-v2026.8.14-linux-arm64-musl.tar.gz",
+  "asset_size": 36896015,
+  "sha256": "06186cfbfe947049b21d58575fb0ea800cc26ed1375f20f4b678cb3a9d679437",
+  "expected_sha256": "06186cfbfe947049b21d58575fb0ea800cc26ed1375f20f4b678cb3a9d679437",
+  "checksum_source": "SHASUMS256.asc",
+  "checksum_verified": true,
+  "assets": {
+    "mise-v2026.8.14-linux-x64.tar.gz": {
+      "sha256": "64d5f34aeb7a4e0e327dc1c9be66cd8162e14899a47b11901154a100285a3d61",
+      "size": 37664580
+    },
+    "mise-v2026.8.14-linux-armv7.tar.gz": {
+      "sha256": "14fe10af97875a68e45037cc44212522075519f2bf8d13b480a265de1fa9815c",
+      "size": 38997452
+    },
+    "mise-v2026.8.14-linux-arm64-musl.tar.gz": {
+      "sha256": "06186cfbfe947049b21d58575fb0ea800cc26ed1375f20f4b678cb3a9d679437",
+      "size": 36896015
+    },
+    "mise-v2026.8.14-linux-armv7-musl.tar.gz": {
+      "sha256": "1ef28e37bc11d9f6f7658e5cfd6db42469210dc20d597a771c43cfe38b5121d8",
+      "size": 38397195
+    },
+    "mise-v2026.8.14-linux-x64-musl.tar.gz": {
+      "sha256": "3832f39c325e343f81fe3d92b2447c5d1a5eea1bc85092bb7b6c25806222647e",
+      "size": 33630935
+    },
+    "mise-v2026.8.14-linux-arm64.tar.gz": {
+      "sha256": "940639580227bd838e3b3ea5b2084ea397399b0db162c2e4dd90b5730850e48e",
+      "size": 37112901
+    }
+  },
+  "asset_count": 6,
+  "vetted_at": "2026-08-26T04:30:08Z",
+  "vetted_by": ""
+}

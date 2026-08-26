@@ -1,0 +1,46 @@
+{
+  "gate": "pass",
+  "license": {
+    "declared": "MIT",
+    "detected": [
+      "MIT"
+    ],
+    "license_files": [
+      "//tmp/tmp.yker2UV8or/x/mise/LICENSE"
+    ],
+    "matches": true,
+    "status": "pass",
+    "detail": "declared MIT matches detected MIT"
+  },
+  "asset": {
+    "format": "tar.gz",
+    "size": 36896015,
+    "valid": true,
+    "is_html": false,
+    "binary": "mise",
+    "elf_arch": "ARM aarch64",
+    "status": "pass",
+    "detail": "valid tar.gz archive containing 1 ELF executable(s); first: mise (ARM aarch64); release covers: amd64 arm64 armhf "
+  },
+  "architectures": {
+    "covered": [
+      "amd64",
+      "arm64",
+      "armhf"
+    ],
+    "missing": [
+      "armel",
+      "i386",
+      "ppc64el",
+      "s390x",
+      "riscv64",
+      "loong64"
+    ],
+    "assets": {
+      "amd64": "mise-v2026.8.14-linux-x64-musl.tar.gz",
+      "arm64": "mise-v2026.8.14-linux-arm64-musl.tar.gz",
+      "armhf": "mise-v2026.8.14-linux-armv7-musl.tar.gz"
+    }
+  },
+  "vetted_at": "2026-08-26T04:30:09Z"
+}

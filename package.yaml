@@ -1,0 +1,9 @@
+# Package definition for mise
+
+package_name: mise
+github_repo: jdx/mise
+artifact_format: tar.gz
+description: "dev tools, env vars, task runner"
+license: MIT
+
+# Build for all Debian suites and all supported architectures.
