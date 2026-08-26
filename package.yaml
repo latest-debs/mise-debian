@@ -5,5 +5,7 @@ github_repo: jdx/mise
 artifact_format: tar.gz
 description: "dev tools, env vars, task runner"
 license: MIT
+# mise tar contains mise/bin/mise nested inside versioned dir, not top-level ELF
+bundle: true
 
 # Build for all Debian suites and all supported architectures.
